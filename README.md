@@ -130,6 +130,4 @@ Les dates et heures sont présentées sous un format lisible ; leur stockage tec
 [Fichier source modifiable](MCD_FormaPlus.drawio)
 Le MCD a été réalisé avec diagrams.net (draw.io), en raison de difficultés d’utilisation de Looping sous Mac . Le schéma et son fichier source modifiable sont disponibles dans ce dépôt . 
 
-## 8. Vérifications et corrections
 
-Cette section sera complétée après la vérification des résultats et du MCD 
