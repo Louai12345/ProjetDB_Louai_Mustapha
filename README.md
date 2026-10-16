@@ -124,7 +124,11 @@ Les dates et heures sont présentées sous un format lisible ; leur stockage tec
 
 ## 7. Modèle conceptuel de données
 
-MCD en cours de réalisation : son image et son fichier source seront ajoutés au dépôt.
+
+![MCD de FormaPlus](mcd.png)
+
+[Fichier source modifiable](MCD_FormaPlus.drawio)
+Le MCD a été réalisé avec diagrams.net (draw.io), en raison de difficultés d’utilisation de Looping sous Mac . Le schéma et son fichier source modifiable sont disponibles dans ce dépôt . 
 
 ## 8. Vérifications et corrections
 
